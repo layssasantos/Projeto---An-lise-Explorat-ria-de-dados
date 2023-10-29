@@ -1,1 +1,3 @@
-# Projeto---An-lise-Explorat-ria-de-dados
+# Projeto Análise Exploratória de Dados de Logística
+
+Este projeto, realizado durante o curso de Análise de dados da EBAC – Escola Britânica de Artes Criativas e Tecnologia, buscou analisar o repositório Loggi Benchmark for Urban Deliveries (BUD). A partir dele, informações de entregas em Brasília (DF) armazenadas em formato JSON passam pelo processo de coleta e limpeza dos dados até a criação de visualizações e insights, tendo sido implementada uma geocodificação reversa pelo pacote GeoPandas para mapear a região do Distrito Federal e também todos os pontos de entregas e hubs (centrais de transporte).
